@@ -1,12 +1,9 @@
 - 👋 Hi, I’m Merve @merve-ozdemir :')
-- 🌸 I'm a cancer biologist at the Dana-Farber Cancer Institute in Boston, USA.
-- 🎓 In 2023, I graduated from UC Berkeley with a degree in Molecular & Cell Biology.
-- 🧬 My work focuses on pediatric T cell acute lymphoblastic leukemia (T-ALL), multiple myeloma and (more recently) pediatric low-grade glioma.
-- 👀 I’m interested in using single cell sequencing approaches to characterize the immune microenvironment in different cancers.
-- 🌱 I’m a self-taught coder/computational biologist, most comfortable with the languages R and Python. 
-- 💞️ I’m hoping to continue my studies in graduate school, focusing on bioinformatics/biostatistics. 
+- 🧬 I'm a Master's student in Computational Biology & Bioinformatics at ETH Zürich, Switzerland. Previously, I was as a researcher at the Dana-Farber Cancer Institute in Boston, USA, working on using single cell sequencing approaches to characterize the immune microenvironment in pediatric T cell acute lymphoblastic leukemia (T-ALL).
+- 🎓 In 2023, I graduated from UC Berkeley with a degree in Molecular & Cell Biology, with a concentration on Immunology.
+- 👀 I’m interested in machine learning applications in cancer and infectious diseases.
+- 🌱 As I come from a pure biology/wet-lab background, I work on various computational projects in my free time and always appreciate feedback! 
 - 📫 How to reach me: meozdemir62@gmail.com
-- ⚡ Here, I'm making a collection of projects I work on in my free time. I'm still learning, so any feedback is appreciated! <3
 - 👾 Check out my online portfolio merve-ozdemir.github.io
 
 <!---
